@@ -1,6 +1,6 @@
-# MyOS – Dein eigenes Betriebssystem
+# FishOS – Dein eigenes Betriebssystem
 
-Ein vollständiges x86 Hobby-OS Grundgerüst. Echtes Ding – kein Spielzeug.
+Mein eigenes OS 
 
 ---
 
